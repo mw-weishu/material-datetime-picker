@@ -28,6 +28,7 @@ import com.thespacemanatee.react_native_material_datetime_picker.util.MDPConstan
 import com.thespacemanatee.react_native_material_datetime_picker.util.MDPConstants.KEY_MINUTE
 import com.thespacemanatee.react_native_material_datetime_picker.util.createDialogArguments
 import com.thespacemanatee.react_native_material_datetime_picker.util.dismissDialog
+import com.google.android.material.R
 
 class RNMaterialTimePickerModule(reactContext: ReactApplicationContext) :
   ReactContextBaseJavaModule(reactContext), BaseRNMaterialPicker {

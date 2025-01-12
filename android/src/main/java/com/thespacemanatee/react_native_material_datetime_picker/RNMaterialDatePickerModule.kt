@@ -37,6 +37,7 @@ import com.thespacemanatee.react_native_material_datetime_picker.util.createCale
 import com.thespacemanatee.react_native_material_datetime_picker.util.createDialogArguments
 import com.thespacemanatee.react_native_material_datetime_picker.util.dismissDialog
 import com.thespacemanatee.react_native_material_datetime_picker.util.fixDate
+import com.google.android.material.R
 
 class RNMaterialDatePickerModule(reactContext: ReactApplicationContext) :
   ReactContextBaseJavaModule(reactContext), BaseRNMaterialPicker {
